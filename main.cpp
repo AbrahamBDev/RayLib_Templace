@@ -7,7 +7,6 @@
 int main(void)
 {
     // Inizialicacion
-    SetWindowPosition(500,300);
     //--------------------------------------------------------------------------------------
     const int screenWidth = 800;
     const int screenHeight = 450;
